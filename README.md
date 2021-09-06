@@ -149,6 +149,13 @@ console.log( arr );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/prepend`][@stdlib/utils/prepend]: add elements from one collection to the beginning of another collection.
+-   [`@stdlib/utils/push`][@stdlib/utils/push]: add one or more elements to the end of a collection.
+
 </section>
 
 <!-- /.related -->
@@ -217,6 +224,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-arraybuffer]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
 
 [mdn-object]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+<!-- <related-links> -->
+
+[@stdlib/utils/prepend]: https://github.com/stdlib-js/utils-prepend
+
+[@stdlib/utils/push]: https://github.com/stdlib-js/utils-push
+
+<!-- </related-links> -->
 
 </section>
 
