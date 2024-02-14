@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import append from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-append@esm/index.mjs';
+import append from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-append@v0.2.0-esm/index.mjs';
 ```
 
 #### append( collection1, collection2 )
@@ -129,7 +129,7 @@ bool = ( out.buffer === arr.buffer );
 <script type="module">
 
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import append from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-append@esm/index.mjs';
+import append from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-append@v0.2.0-esm/index.mjs';
 
 var arr;
 var i;
